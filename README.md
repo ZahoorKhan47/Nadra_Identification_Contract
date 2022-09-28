@@ -1,6 +1,4 @@
 # Nadra_Contract
 
 
-I have not uploaded the modules folder with this 
-
-And I deployed it from Remix and then use Infura Url and contract Address to interact with Contract
+ This is a simple contract for storing the bio-data for a person on the blockchain.
